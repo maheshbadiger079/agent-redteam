@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.db
+*.sqlite3
+.streamlit/secrets.toml
+.idea/
+.vscode/
+*.log
+trust_report.json
+redteam_eval_log.csv

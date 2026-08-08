@@ -1,0 +1,3 @@
+[console_scripts]
+redteam-harness = harness.runner:main
+redteam-report = harness.report:main
